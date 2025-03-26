@@ -1,0 +1,7 @@
+# DNMRIME Code
+
+This repository contains the implementation of the DNMRIME algorithm as described in the paper:
+
+**"RIME Optimization with Dynamic Multi-dimensional Random Mechanism and Nelder-Mead Simplex for Photovoltaic Parameter"**
+
+The main function (`main`) serves as the entry point for executing the algorithm.
